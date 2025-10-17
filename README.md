@@ -4,8 +4,6 @@ Welcome to my profile.
 
 I'm an engineering student at Universidad Tecnologica Nacional, Argentina. This account is used both for university and personal projects.
 
-As you can probably tell, this is a work in progress kind of thing. As I continue learning, I'll be adding more and more things here.
-
 <!--
 **nullspace1/nullspace1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
